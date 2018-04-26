@@ -40,7 +40,8 @@ _**1** TIL and counting..._
 * [Productivity](#productivity)
     - productivity tips such as 'NO ZERO WORK 
 
-* Citadel
+* [Citadel](#citadel)
+    + Introspect and learn
     + [tech, books ] talks
     + machine learning
     + `IoT`
@@ -63,7 +64,8 @@ _**1** TIL and counting..._
 ## Productivity ##
 - [Get Disciplined](productivity/GetDisciplined.md)
 
-
+## Citadel ##
+- [Introspect](Citadel/introspect.md)
 
 
 ---
