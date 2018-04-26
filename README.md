@@ -31,7 +31,7 @@ _**1** TIL and counting..._
 * Front-end
     + all front-end topics [`js`, `angular`, `css`, `node`]
     + [JavaScript and ES6](#es6)
-    + [Interview](#front-end-Interview)
+    + [Interview](#front-end-interview)
 
 * Back-end
     + `C#`, `SQL`, `ASP.NET`
@@ -53,7 +53,9 @@ _**1** TIL and counting..._
 
 
 ## CSharp ##
-+ [Basics](Csharp/basics.md)
++ [Fundamental](Csharp/fundamental.md)
++ [Generics, Collections](Csharp/genericsAndCollections.md)
++ [Interview Prep](Csharp/interviewPrep.md)
 
 ## Front-end Interview ##
 + [Interview Tips](FrontEndInterview/Interview.md)
