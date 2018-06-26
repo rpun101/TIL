@@ -46,6 +46,8 @@
     + machine learning
     + `IoT`
 
+* [Book Review](#book-review)
+    + [How to Win Friends](Review/HowtowinFriends.md)
 * Hobby
     + Guitar
 
@@ -68,7 +70,8 @@
 ## Citadel ##
 - [Introspect](Citadel/introspect.md)
 
-
+## Book Review ##
+- [How to Win Friends](Review/HowtowinFriends.md)
 ---
 ## Introduction ##
 _A collection of concise write-ups on small things we learn day to day across a
